@@ -51,8 +51,7 @@
 
 ### 📬 Let’s Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/ajay-n-76a3091b5)  
-- ✉️ you@example.com  
+- 🔗 www.linkedin.com/in/ajay-n-76a3091b5 
 
 ---
 
