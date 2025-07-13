@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Ajay</h1>
+<h3 align="center">Data Scientist • ML Engineer • GenAI Enthusiast</h3>
 
-<!--
-**Ajay2k01/Ajay2k01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center">
+  🔬 Solving real-world problems with ML and GenAI | ⚙️ Engineering scalable data systems | 💡 Passionate about making data useful
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 About Me
+
+- 🎯 **AI and Data Science professional** with hands-on experience in ML modeling, GenAI systems, and scalable pipelines  
+- 🧠 Skilled in **regression**, **clustering**, and **LLM-based applications** using LangChain and vector search  
+- 💾 Experience with **Spark**, **Databricks**, and **Azure** to build end-to-end solutions  
+- 🏆 Certified in Data Engineering & Generative AI by Databricks  
+- 💡 Passionate about turning messy data into clear, actionable insights
+
+---
+
+### 🧠 Skills & Tools
+
+#### 📊 Machine Learning & AI
+`Regression` • `Clustering` • `LLMs` • `Prompt Engineering` • `LangChain` • `RAG` • `MLflow`  
+`Scikit-learn` • `Pandas` • `NumPy` • `XGBoost` • `LightGBM`
+
+#### ⚙️ Data Engineering & Platforms
+`Apache Spark` • `Databricks` • `Azure Data Factory` • `AzureSQL` • `ETL Pipelines` • `SQL`
+
+#### 🧰 Dev Tools & Frameworks
+`Python` • `Django` • `REST APIs` • `Git` • `VS Code` • `Postman`
+
+---
+
+### 🏆 Certifications
+
+- 📜 **Databricks Certified Data Engineer Associate**  
+- 📜 **Databricks Certified Generative AI Engineer Associate**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📬 Let’s Connect
+
+- 🔗 [LinkedIn](www.linkedin.com/in/ajay-n-76a3091b5)  
+- ✉️ you@example.com  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
